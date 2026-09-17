@@ -171,8 +171,17 @@
         <mxCell id="UhqbLgR93CAwkpiY6Pk3-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Боюсь, я не смогу запланировать звонок так далеко. Давайте выберем время в ближайшие дни — например, завтра или послезавтра?" vertex="1">
           <mxGeometry height="147" width="120" x="367" y="683" as="geometry" />
         </mxCell>
-        <mxCell id="UhqbLgR93CAwkpiY6Pk3-22" edge="1" parent="1" source="UhqbLgR93CAwkpiY6Pk3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="UhqbLgR93CAwkpiY6Pk3-21">
+        <mxCell id="UhqbLgR93CAwkpiY6Pk3-22" edge="1" parent="1" source="UhqbLgR93CAwkpiY6Pk3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="UhqbLgR93CAwkpiY6Pk3-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhqbLgR93CAwkpiY6Pk3-78" edge="1" parent="1" source="UhqbLgR93CAwkpiY6Pk3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VUD8uLHJdpHdtfGjF9bf-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="401" y="1100" />
+              <mxPoint x="1072" y="1100" />
+              <mxPoint x="1072" y="306" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UhqbLgR93CAwkpiY6Pk3-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Клиент повторяет говорить некорректное время?" vertex="1">
           <mxGeometry height="80" width="218" x="183" y="876" as="geometry" />
@@ -364,7 +373,10 @@
           <mxGeometry height="30" width="60" x="242" y="485" as="geometry" />
         </mxCell>
         <mxCell id="UhqbLgR93CAwkpiY6Pk3-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Да" vertex="1">
-          <mxGeometry height="30" width="60" x="238" y="962" as="geometry" />
+          <mxGeometry height="30" width="60" x="166" y="956" as="geometry" />
+        </mxCell>
+        <mxCell id="UhqbLgR93CAwkpiY6Pk3-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Нет" vertex="1">
+          <mxGeometry height="30" width="60" x="917" y="956" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
